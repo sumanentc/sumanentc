@@ -1,4 +1,4 @@
-# Suman Das&nbsp;<img src="https://github.com/sumanentc/sumanentc/blob/master/assets/coder.gif" width="30px">
+# Suman Das&nbsp;<img src="https://github.com/sumanentc/sumanentc/blob/master/assets/coder.gif" width="50px">
 
 - 📫 Reach me on : 
 
@@ -9,10 +9,16 @@
 ### <img src="https://github.com/sumanentc/sumanentc/blob/master/assets/Hi.gif" width="29px"> Hello world!&nbsp;<img src="https://github.com/sumanentc/sumanentc/blob/master/assets/Earth.gif" width="24px">
 I'm Suman Das, I'm a software engineer <img src="https://github.com/sumanentc/sumanentc/blob/master/assets/Developer.gif" width="30px">‍ who is passionate about technologies and I :heart: open source!.
 
---------------------------------------------------------------------------------------------------------------------------------------------------------------------
--  **Working :** Web Development :iphone: | Cloud :cloud: 
--  **Learning :** Full-Stack :zap: | Open-Source :fire:	
--  **Hobbies :** Coding :technologist: | Playing and Watching Cricket :cricket_game: and Football :soccer:
+## ⚡ Technologies
+Talk to me about
+- Front-end development using **HTML, Javascript, CSS, Bootstrap, React**
+- Backend development using **Spring Boot, Flask**
+- Programming Languages **Java, Python, GO**
+- Making for **Relational Database Management Systems**
+- Robust system design implementation
+- Creating scalable cloud architecture using **AWS , Azure or GCP Cloud**
+- DevOps using **Kubernetes and Docker**
+- Big Data ecosystem like **Apache Spark, Hive** and others
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
