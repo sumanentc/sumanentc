@@ -1,4 +1,4 @@
-# Suman Das&nbsp;<img src="https://github.com/sumanentc/sumanentc/blob/master/assets/coder.gif" width="50px">
+# Suman Das&nbsp;<img src="https://github.com/sumanentc/sumanentc/blob/master/assets/minion.gif" width="50px">
 
 - 📫 Reach me on : 
 
