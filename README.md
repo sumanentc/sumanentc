@@ -7,6 +7,9 @@
 [![Gmail Badge](https://img.shields.io/badge/-sumanentc@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:sumanentc@gmail.com)](mailto:sumanentc@gmail.com)
 
 ### <img src="https://github.com/sumanentc/sumanentc/blob/master/assets/Hi.gif" width="29px"> Hello world!&nbsp;<img src="https://github.com/sumanentc/sumanentc/blob/master/assets/Earth.gif" width="24px">
+
+<img src="https://github.com/sumanentc/sumanentc/blob/master/assets/minion.gif" width="200px">
+
 I'm Suman Das, I'm a software engineer <img src="https://github.com/sumanentc/sumanentc/blob/master/assets/Developer.gif" width="30px">‍ who is passionate about technologies and I :heart: open source!.
 
 ## ⚡ Technologies
