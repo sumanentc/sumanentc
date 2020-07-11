@@ -5,5 +5,5 @@
 [![Medium Badge](https://img.shields.io/badge/-@SumanDas-03a57a?style=flat-square&labelColor=000000&logo=Medium&link=https://medium.com/@dassum)](https://medium.com/@dassum)
 [![Gmail Badge](https://img.shields.io/badge/-sumanentc@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:sumanentc@gmail.com)](mailto:sumanentc@gmail.com)
 
-## Hi 👋, 
+### <img src="https://github.com/sumanentc/sumanentc/tree/master/assets/Hi.gif" width="29px"> Hello world!&nbsp;<img src="https://github.com/sumanentc/sumanentc/tree/master/assets/Earth.gif" width="24px">
 I'm Suman Das, I'm a software engineer 👨‍💻 who is passionate about technologies and I :heart: open source!.
