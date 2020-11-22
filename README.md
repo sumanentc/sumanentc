@@ -25,7 +25,9 @@ Talk to me about
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-![github stats](https://github-readme-stats.vercel.app/api?username=sumanentc&show_icons=true)
+![github stats](https://github-readme-stats.vercel.app/api?username=sumanentc&show_icons=true&theme=algolia)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sumanentc&layout=compact)](https://github.com/sumanentc/github-readme-stats)
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=sumanentc)
 
