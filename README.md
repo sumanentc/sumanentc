@@ -37,7 +37,7 @@
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-![github stats](https://github-readme-stats.vercel.app/api?username=sumanentc&show_icons=true&theme=algolia)
+![github stats](https://github-readme-stats.vercel.app/api?username=sumanentc&show_icons=true&include_all_commits=true&count_private=true&theme=algolia&layout=compact)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sumanentc&layout=compact)](https://github.com/sumanentc/github-readme-stats)
 
@@ -45,3 +45,7 @@
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
+### Watch my contribution graph get eaten by the snake 🐍
+
+<!-- platane/snk works, it just puts it on a new branch -->
+![sumanentc snake gif](https://github.com/sumanentc/sumanentc/blob/output/github-contribution-grid-snake.svg)
