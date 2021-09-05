@@ -24,7 +24,7 @@
 
 - 📫 Reach me on :
 
-  [![Twitter Badge](https://img.shields.io/badge/-@nerd_dassum-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/nerd_dassum)](https://twitter.com/nerd_dassum)
+  [![Twitter Badge](https://img.shields.io/badge/-@techie_das-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/techie_das)](https://twitter.com/techie_das)
   [![Linkedin Badge](https://img.shields.io/badge/-dassum-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/dassum/)](https://www.linkedin.com/in/dassum/)
   [![Medium Badge](https://img.shields.io/badge/-@SumanDas-03a57a?style=flat-square&labelColor=000000&logo=Medium&link=https://dassum.medium.com/)](https://medium.com/@dassum)
   [![Gmail Badge](https://img.shields.io/badge/-sumanentc@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:sumanentc@gmail.com)](mailto:sumanentc@gmail.com)
