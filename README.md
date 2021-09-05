@@ -37,8 +37,7 @@
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-![github stats](https://github-readme-stats.vercel.app/api?username=sumanentc&show_icons=true&include_all_commits=true&count_private=true&theme=algolia&layout=compact
-alt="GitHub Stats for Suman Das" width="700")
+![github stats](https://github-readme-stats.vercel.app/api?username=sumanentc&show_icons=true&include_all_commits=true&count_private=true&theme=algolia&layout=compact)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sumanentc&layout=compact)](https://github.com/sumanentc/github-readme-stats)
 
