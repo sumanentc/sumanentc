@@ -7,9 +7,9 @@
 <h1 align="center">Hello <img src="https://github.com/sumanentc/sumanentc/blob/master/assets/Hi.gif" width="29px">, I'm Suman Das</h1>
 <h4 align="center">I'm a software engineer <img src="https://github.com/sumanentc/sumanentc/blob/master/assets/Developer.gif" width="30px">‍ who is passionate about technologies and I :heart: open source!.</h4>
 
-- 🌱 I’m currently learning about **Public Cloud and Machine Learning**
-- 👨‍💻 All about me is available at [My Website](https://sumanentc.github.io/)
-- 📝 Sometimes I write articles on [Medium](https://dassum.medium.com/)
+- 📖 I’m currently learning about **Public Cloud and Machine Learning**
+- 👨‍💻 All about me is available at 👉 [My Website](https://sumanentc.github.io/)
+- 📝 Sometimes I write articles on 👉 [Medium](https://dassum.medium.com/)
 - 📈 From time to time I contribute to [Stackoverflow](https://stackoverflow.com/users/6805190/dassum?tab=profile)
 - 💬 Talk to me about
   ## ⚡ Technologies
