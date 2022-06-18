@@ -4,7 +4,7 @@
 
 :rainbow: Hey Profile Visitor 😍
 
-<h1 align="center">Hello <img src="https://github.com/sumanentc/sumanentc/blob/master/assets/Hi.gif" width="19px">, I'm Suman Das</h1>
+<h1 align="center">Hello <img src="https://github.com/sumanentc/sumanentc/blob/master/assets/Hi.gif" width="10px">, I'm Suman Das</h1>
 <h4 align="center">I'm a software engineer <img src="https://github.com/sumanentc/sumanentc/blob/master/assets/Developer.gif" width="20px">‍ who is passionate about technologies and I :heart: open source!.</h4>
 
 - 📖 I’m currently learning about **Public Cloud and Machine Learning**
