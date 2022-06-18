@@ -1,11 +1,11 @@
-#### Minion at Work!&nbsp;<img src="https://github.com/sumanentc/sumanentc/blob/master/assets/Earth.gif" width="10px">
+#### Minion at Work!&nbsp;<img src="https://github.com/sumanentc/sumanentc/blob/master/assets/Earth.gif" width="30">
 
-<img src="https://github.com/sumanentc/sumanentc/blob/master/assets/minion.gif" width="100px">
+<img src="https://github.com/sumanentc/sumanentc/blob/master/assets/minion.gif" width="300">
 
 :rainbow: Hey Profile Visitor 😍
 
-<h1 align="center">Hello <img src="https://github.com/sumanentc/sumanentc/blob/master/assets/Hi.gif" width="10px">, I'm Suman Das</h1>
-<h4 align="center">I'm a software engineer <img src="https://github.com/sumanentc/sumanentc/blob/master/assets/Developer.gif" width="20px">‍ who is passionate about technologies and I :heart: open source!.</h4>
+<h1 align="center">Hello <img src="https://github.com/sumanentc/sumanentc/blob/master/assets/Hi.gif" width="30">, I'm Suman Das</h1>
+<h4 align="center">I'm a software engineer <img src="https://github.com/sumanentc/sumanentc/blob/master/assets/Developer.gif" width="35">‍ who is passionate about technologies and I :heart: open source!.</h4>
 
 - 📖 I’m currently learning about **Public Cloud and Machine Learning**
 - 👨‍💻 All about me is available at 👉 [My Website](https://sumanentc.github.io/)
