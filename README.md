@@ -1,11 +1,11 @@
-### Minion at Work!&nbsp;<img src="https://github.com/sumanentc/sumanentc/blob/master/assets/Earth.gif" width="24px">
+#### Minion at Work!&nbsp;<img src="https://github.com/sumanentc/sumanentc/blob/master/assets/Earth.gif" width="10px">
 
-<img src="https://github.com/sumanentc/sumanentc/blob/master/assets/minion.gif" width="200px">
+<img src="https://github.com/sumanentc/sumanentc/blob/master/assets/minion.gif" width="100px">
 
 :rainbow: Hey Profile Visitor 😍
 
-<h1 align="center">Hello <img src="https://github.com/sumanentc/sumanentc/blob/master/assets/Hi.gif" width="29px">, I'm Suman Das</h1>
-<h4 align="center">I'm a software engineer <img src="https://github.com/sumanentc/sumanentc/blob/master/assets/Developer.gif" width="30px">‍ who is passionate about technologies and I :heart: open source!.</h4>
+<h1 align="center">Hello <img src="https://github.com/sumanentc/sumanentc/blob/master/assets/Hi.gif" width="19px">, I'm Suman Das</h1>
+<h4 align="center">I'm a software engineer <img src="https://github.com/sumanentc/sumanentc/blob/master/assets/Developer.gif" width="20px">‍ who is passionate about technologies and I :heart: open source!.</h4>
 
 - 📖 I’m currently learning about **Public Cloud and Machine Learning**
 - 👨‍💻 All about me is available at 👉 [My Website](https://sumanentc.github.io/)
@@ -24,7 +24,7 @@
 
 - 📫 Reach me on :
 
-  [![Twitter Badge](https://img.shields.io/badge/-@techie_das-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/techie_das)](https://twitter.com/techie_das)
+  [![Twitter Badge](https://img.shields.io/badge/-@techie_das-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/techie_das)](https://twitter.com/dassum_)
   [![Linkedin Badge](https://img.shields.io/badge/-dassum-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/dassum/)](https://www.linkedin.com/in/dassum/)
   [![Medium Badge](https://img.shields.io/badge/-@SumanDas-03a57a?style=flat-square&labelColor=000000&logo=Medium&link=https://dassum.medium.com/)](https://medium.com/@dassum)
   [![Gmail Badge](https://img.shields.io/badge/-sumanentc@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:sumanentc@gmail.com)](mailto:sumanentc@gmail.com)
