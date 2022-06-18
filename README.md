@@ -14,7 +14,7 @@
 - 💬 Talk to me about
   ## ⚡ Technologies
     - Front-end development using **HTML, Javascript, CSS, Bootstrap, React**
-    - Backend development using **Spring Boot, Flask**
+    - Backend development using **Spring Boot, Flask, FastAPI**
     - Programming Languages **Java, Python, GO**
     - Making for **Relational Database Management Systems**
     - Robust system design implementation
