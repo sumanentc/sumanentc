@@ -32,9 +32,9 @@
 
 ### What are my featured projects:question::rocket:
 
-<code>[Multitenancy using Spring-Boot](https://github.com/sumanentc/multitenant)</code>:office:
+<code>[Face ID Recognition]("https://github.com/sumanentc/Machine-Learning-with-Python/tree/main/Face-ID-Recognition")</code>:office:
 <code>[COVID-19 Bot](https://github.com/sumanentc/COVID-19-bot)</code>:robot:
-<code>[Spring-Boot Oauth2 using JWT](https://github.com/sumanentc/springboot-oauth-jwt)</code>:guard:
+<code>[AI Generated Podcast](https://github.com/sumanentc/Machine-Learning-with-Python/tree/main/GenerativeAI/Generate-Podcast)</code>:guard:
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
