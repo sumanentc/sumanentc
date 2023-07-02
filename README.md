@@ -40,7 +40,7 @@
 
 <strong>Stackoverflow stats</strong>
 
-<a href="https://github.com/sumanentc/so-stats"><img height="200" src="https://so-stats-kurt-liao.vercel.app/api?user=6805190&theme=swift" alt="stack overflow stat"></a>
+<a href="https://github.com/sumanentc/so-stats"><img height="200" src="https://so-stats-kurt-liao.vercel.app/api?user=6805190&theme=azure" alt="stack overflow stat"></a>
 
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=sumanentc)
