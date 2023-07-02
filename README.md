@@ -7,20 +7,21 @@
 <h1 align="center">Hello <img src="https://github.com/sumanentc/sumanentc/blob/master/assets/Hi.gif" width="30">, I'm Suman Das</h1>
 <h4 align="center">I'm a software engineer <img src="https://github.com/sumanentc/sumanentc/blob/master/assets/Developer.gif" width="35">‍ who is passionate about technologies and I :heart: open source!.</h4>
 
-- 📖 I’m currently learning about **Public Cloud and Machine Learning**
+- 📖 I’m currently learning about **Machine Learning and LLM**
 - 👨‍💻 All about me is available at 👉 [My Website](https://sumanentc.github.io/)
 - 📝 Sometimes I write articles on 👉 [Medium](https://dassum.medium.com/)
 - 📈 From time to time I contribute to [Stackoverflow](https://stackoverflow.com/users/6805190/dassum?tab=profile)
 - 💬 Talk to me about
   ## ⚡ Technologies
+    - Building products using **Machine Learning, NLP and LLM**
     - Front-end development using **HTML, Javascript, CSS, Bootstrap, React**
-    - Backend development using **Spring Boot, Flask, FastAPI**
-    - Programming Languages **Java, Python, GO**
+    - Backend development using **Spring Boot, Flask, FastAPI, Langchain**
+    - Programming Languages **Java, Python**
     - Making for **Relational Database Management Systems**
-    - Robust system design implementation
-    - Creating scalable cloud architecture using **AWS , Azure or GCP Cloud**
+    - Robust and scalable system design implementation
+    - Creating scalable cloud architecture using **AWS, Azure or GCP Cloud**
     - DevOps using **Kubernetes and Docker**
-    - Big Data ecosystem like **Apache Spark, Hive** and others
+    - Big Data ecosystem like **Apache Spark, Apache Ignite Hive** and others
 
 - 📫 Reach me on :
 
@@ -37,9 +38,10 @@
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-![github stats](https://github-readme-stats.vercel.app/api?username=sumanentc&show_icons=true&include_all_commits=true&count_private=true&theme=algolia&layout=compact)
+<strong>Stackoverflow stats</strong>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sumanentc&layout=compact)](https://github.com/sumanentc/github-readme-stats)
+<a href="https://github.com/kurt-project/so-stats"><img height="200" src="https://so-stats-kurt-liao.vercel.app/api?user=8212847&theme=swift" alt="stack overflow stat"></a>
+
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=sumanentc)
 
