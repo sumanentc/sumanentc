@@ -32,7 +32,7 @@
 
 ### What are my featured projects:question::rocket:
 
-<code>[Face ID Recognition]("https://github.com/sumanentc/Machine-Learning-with-Python/tree/main/Face-ID-Recognition")</code>:office:
+<code>[Face ID Recognition](https://github.com/sumanentc/Machine-Learning-with-Python/tree/main/Face-ID-Recognition)</code>:office:
 <code>[COVID-19 Bot](https://github.com/sumanentc/COVID-19-bot)</code>:robot:
 <code>[AI Generated Podcast](https://github.com/sumanentc/Machine-Learning-with-Python/tree/main/GenerativeAI/Generate-Podcast)</code>:guard:
 
