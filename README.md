@@ -35,6 +35,7 @@
 <code>[Face ID Recognition](https://github.com/sumanentc/Machine-Learning-with-Python/tree/main/Face-ID-Recognition)</code>:guard:
 <code>[COVID-19 Bot](https://github.com/sumanentc/COVID-19-bot)</code>:robot:
 <code>[AI Generated Podcast](https://github.com/sumanentc/Machine-Learning-with-Python/tree/main/GenerativeAI/Generate-Podcast)</code>:robot:
+<code>[RoamWise AI Travel Planner](https://github.com/sumanentc/travel-planner)</code>:robot:
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
