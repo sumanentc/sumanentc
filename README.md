@@ -7,21 +7,20 @@
 <h1 align="center">Hello <img src="https://github.com/sumanentc/sumanentc/blob/master/assets/Hi.gif" width="30">, I'm Suman Das</h1>
 <h4 align="center">I'm a software engineer <img src="https://github.com/sumanentc/sumanentc/blob/master/assets/Developer.gif" width="35">‍ who is passionate about technologies and I :heart: open source!.</h4>
 
-- 📖 I’m currently learning about **Machine Learning and LLM**
+- 📖 I’m currently learning about **GenAI and Neural Networks**
 - 👨‍💻 All about me is available at 👉 [My Website](https://sumanentc.github.io/)
 - 📝 Sometimes I write articles on 👉 [Medium](https://dassum.medium.com/)
 - 📈 From time to time I contribute to [Stackoverflow](https://stackoverflow.com/users/6805190/dassum?tab=profile)
 - 💬 Talk to me about
   ## ⚡ Technologies
-    - Building products using **Machine Learning, NLP and LLM**
-    - Front-end development using **HTML, Javascript, CSS, Bootstrap, React**
-    - Backend development using **Spring Boot, Flask, FastAPI, Langchain**
+    - Building products using **GenAI and Multi-Agentic Frameworks**
+    - Creating scalable cloud architecture using **AWS, Azure or GCP Cloud**
+    - Backend development using **Spring Boot, Flask, FastAPI, Langchain, Weaviate, TaskWeaver**
+    - Robust and scalable system design implementation
     - Programming Languages **Java, Python**
     - Making for **Relational Database Management Systems**
-    - Robust and scalable system design implementation
-    - Creating scalable cloud architecture using **AWS, Azure or GCP Cloud**
     - DevOps using **Kubernetes and Docker**
-    - Big Data ecosystem like **Apache Spark, Apache Ignite Hive** and others
+    - Big Data ecosystem like **Apache Spark, Apache Ignite, Hive** and others
 
 - 📫 Reach me on :
 
