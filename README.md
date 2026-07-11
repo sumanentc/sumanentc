@@ -5,7 +5,7 @@
 :rainbow: Hey Profile Visitor 😍
 
 <h1 align="center">Hello <img src="https://github.com/sumanentc/sumanentc/blob/master/assets/Hi.gif" width="30">, I'm Suman Das</h1>
-<h4 align="center">I'm a GenAI Specialist & Multi-Agent Systems Architect <img src="https://github.com/sumanentc/sumanentc/blob/master/assets/Developer.gif" width="35">‍ who builds intelligent products from 0→1 to production, and I :heart: open source!.</h4>
+<h4 align="center">I'm a GenAI Specialist & Multi-Agent Systems Architect who builds intelligent products from 0→1 to production, and I :heart: open source! <img src="https://github.com/sumanentc/sumanentc/blob/master/assets/Developer.gif" width="35"></h4>
 
 - 📖 I’m currently learning about **Agentic AI, Multi-Agent Orchestration, and LLM Fine-tuning**
 - 👨‍💻 All about me is available at 👉 [My Website](https://sumanentc.github.io/)
